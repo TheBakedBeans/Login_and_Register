@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="Group Project">
+    <serverData>
+      <paths name="Group Project">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/learning-laravel-5" local="$PROJECT_DIR$" web="http://113508647.netsoc.co/learning-laravel-5/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
